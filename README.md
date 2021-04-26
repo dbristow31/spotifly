@@ -1,6 +1,6 @@
 # Data analysis
 - Document here the project: spotifly
-- Description: Project Description
+- Description: Uses a basic linear regression model to predict the popularity of songs on Spotify
 - Data Source:
 - Type of analysis:
 
